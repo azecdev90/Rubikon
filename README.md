@@ -1,4 +1,5 @@
 # Rubikon
+![Rubikon kocka](https://static.wixstatic.com/media/c02146_71de47886e1f4a759a251663d9b07df9~mv2.png/v1/fill/w_2933,h_1717,al_c/c02146_71de47886e1f4a759a251663d9b07df9~mv2.png)
 
 ## Basic information
 Rubikon is simple application for encryption purpose. Name Rubikon originates from game of combination words, Rubi part came from Ruby, technology I used to create this piece of software, and Rubikon, name of river Caesar crossed and send encrypted message to his commanders “alea iacta est”. This piece of software is created in proccess of learning Ruby language. Alphabet used in this first version is English. There are  26 letters, and this is important for properly usage. Software have option to encrypt and decrypt text.  
